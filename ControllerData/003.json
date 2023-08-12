@@ -1,0 +1,52 @@
+{
+    "list": [
+        {
+            "_inputName": "Controller",
+            "_interactionName": "VirtualButtons",
+            "_seconds": 11.873798370361329,
+            "_countGrabInteraction": 0,
+            "_countReleaseInteraction": 0,
+            "_countTouchInteraction": 4
+        },
+        {
+            "_inputName": "Controller",
+            "_interactionName": "Dice",
+            "_seconds": 16.790904998779298,
+            "_countGrabInteraction": 5,
+            "_countReleaseInteraction": 4,
+            "_countTouchInteraction": 0
+        },
+        {
+            "_inputName": "Controller",
+            "_interactionName": "GrabAndPlace",
+            "_seconds": 15.957365036010743,
+            "_countGrabInteraction": 4,
+            "_countReleaseInteraction": 5,
+            "_countTouchInteraction": 0
+        },
+        {
+            "_inputName": "Controller",
+            "_interactionName": "LightSwitch",
+            "_seconds": 12.432164192199707,
+            "_countGrabInteraction": 0,
+            "_countReleaseInteraction": 0,
+            "_countTouchInteraction": 10
+        },
+        {
+            "_inputName": "Controller",
+            "_interactionName": "Hanoi",
+            "_seconds": 6.309488296508789,
+            "_countGrabInteraction": 3,
+            "_countReleaseInteraction": 3,
+            "_countTouchInteraction": 2
+        },
+        {
+            "_inputName": "Controller",
+            "_interactionName": "ThrowObject",
+            "_seconds": 38.20209503173828,
+            "_countGrabInteraction": 0,
+            "_countReleaseInteraction": 0,
+            "_countTouchInteraction": 0
+        }
+    ]
+}

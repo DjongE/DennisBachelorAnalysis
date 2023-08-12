@@ -1,0 +1,52 @@
+{
+    "list": [
+        {
+            "_inputName": "HandTracking",
+            "_interactionName": "VirtualButtons",
+            "_seconds": 17.500452041625978,
+            "_countGrabInteraction": 0,
+            "_countReleaseInteraction": 0,
+            "_countTouchInteraction": 5
+        },
+        {
+            "_inputName": "HandTracking",
+            "_interactionName": "Dice",
+            "_seconds": 28.681318283081056,
+            "_countGrabInteraction": 5,
+            "_countReleaseInteraction": 4,
+            "_countTouchInteraction": 0
+        },
+        {
+            "_inputName": "HandTracking",
+            "_interactionName": "GrabAndPlace",
+            "_seconds": 15.560773849487305,
+            "_countGrabInteraction": 7,
+            "_countReleaseInteraction": 8,
+            "_countTouchInteraction": 0
+        },
+        {
+            "_inputName": "HandTracking",
+            "_interactionName": "LightSwitch",
+            "_seconds": 10.442832946777344,
+            "_countGrabInteraction": 0,
+            "_countReleaseInteraction": 0,
+            "_countTouchInteraction": 9
+        },
+        {
+            "_inputName": "HandTracking",
+            "_interactionName": "Hanoi",
+            "_seconds": 24.271827697753908,
+            "_countGrabInteraction": 12,
+            "_countReleaseInteraction": 12,
+            "_countTouchInteraction": 3
+        },
+        {
+            "_inputName": "HandTracking",
+            "_interactionName": "ThrowObject",
+            "_seconds": 149.78526306152345,
+            "_countGrabInteraction": 0,
+            "_countReleaseInteraction": 0,
+            "_countTouchInteraction": 0
+        }
+    ]
+}
